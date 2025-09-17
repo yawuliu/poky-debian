@@ -1,8 +1,8 @@
 [submodule "poky"]
 	path = poky
-	url = https://github.com/yoctoproject/poky.git
+	url = git@github.com:yawuliu/poky.git
 	branch = scarthgap
 [submodule "meta-debian"]
 	path = meta-debian
-	url = https://github.com/yawuliu/meta-debian
+	url = git@github.com:yawuliu/meta-debian.git
 	branch = scarthgap
